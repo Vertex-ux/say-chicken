@@ -1,2 +1,2 @@
 # say-chicken
-git clone github.com/vertex-ux/saycheese
+git clone http://github.com/vertex-ux/saycheese.git
